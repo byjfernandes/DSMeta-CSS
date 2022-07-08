@@ -11,3 +11,8 @@ body, html {
     background-color: #000;
     color: #fff;
 }
+
+a, a:hover, a:visited {
+    color: unset;
+    text-decoration: none;
+}
